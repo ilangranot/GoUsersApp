@@ -1,4 +1,4 @@
-# GoUsersApp
+# GoUsers Backend
 
 This is the server (App backend). For the front-end see https://github.com/ilangranot/GoUsersStatic
 
